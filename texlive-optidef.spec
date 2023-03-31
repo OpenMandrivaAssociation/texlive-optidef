@@ -1,6 +1,6 @@
 Name:		texlive-optidef
 Version:	50941
-Release:	1
+Release:	2
 Summary:	Environments for writing optimization problems
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/optidef
