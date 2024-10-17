@@ -3,7 +3,7 @@ Version:	50941
 Release:	2
 Summary:	Environments for writing optimization problems
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/optidef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/optidef
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/optidef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/optidef.doc.r%{version}.tar.xz
